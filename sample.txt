@@ -1,1 +1,2 @@
 adding sample to check the branchs
+making changes in the file and checking the pull request 
